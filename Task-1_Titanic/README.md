@@ -1,6 +1,5 @@
-# Task 1 – Titanic Survival Prediction
+## Model Performance
+- Algorithm: Logistic Regression
+- Accuracy: ~72%
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
-This project is part of the CodSoft Data Science Internship.
-
-Objective:
-To build a machine learning model that predicts whether a passenger survived the Titanic disaster.
